@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/credit-card/static/css/main.cd6161f5.css",
+    "main.js": "/credit-card/static/js/main.32765cdf.js",
+    "static/js/453.01309b6a.chunk.js": "/credit-card/static/js/453.01309b6a.chunk.js",
+    "static/media/visa.jpg": "/credit-card/static/media/visa.64b73ee9eebc2b6b2ebe.jpg",
+    "static/media/mastercard.jpg": "/credit-card/static/media/mastercard.a5cb6810592f8badd427.jpg",
+    "static/media/paypal.png": "/credit-card/static/media/paypal.76d302285b1ab1985181.png",
+    "index.html": "/credit-card/index.html",
+    "main.cd6161f5.css.map": "/credit-card/static/css/main.cd6161f5.css.map",
+    "main.32765cdf.js.map": "/credit-card/static/js/main.32765cdf.js.map",
+    "453.01309b6a.chunk.js.map": "/credit-card/static/js/453.01309b6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6161f5.css",
+    "static/js/main.32765cdf.js"
+  ]
+}
